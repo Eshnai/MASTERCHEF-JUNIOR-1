@@ -1,1 +1,2 @@
-# MASTERCHEF-JUNIOR-1
+# Project 26: MasterChef Jr
+Made by Simran Swaitch
